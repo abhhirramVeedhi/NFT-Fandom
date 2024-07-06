@@ -1,0 +1,195 @@
+.secbutton1 {
+  font-weight: bold;
+  position: relative;
+  top: -4px;
+}
+
+.image1 {
+  width: 64px;
+  height: 64px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p {
+  text-align: center;
+  color: #E3E1E3;
+}
+
+.cont1 {
+  background-color: #1B1A21;
+}
+
+.container {
+  background-color: #000;
+}
+
+.container11 {
+  width: 200px;
+  height: 200px;
+  background-color: #1B1A21;
+  border-radius: 50%;
+  margin: auto;
+  position: relative;
+  bottom: 100px;
+}
+
+.user {
+  border-radius: 50%;
+  border: 5px solid #1B1A21;
+}
+
+h5 {
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.slide {
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+  margin-bottom: 5px;
+  margin-top: 50px;
+  border-radius: 5px;
+  width: 200px;
+  height: 200px;
+}
+
+.load{
+  display: block;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sep{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 4%;
+  display: block;
+  margin-top: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slide-desc11{
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.container33{
+  width: 210px;
+  height: 250px;
+  background-color: #2D2E36;
+  border-radius: 5px;
+  display: block;
+  margin: 0 auto;
+  vertical-align: middle;
+}
+
+.slide-desc12{
+  color: #fff;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.symbol{
+  float: right;
+  position: relative;
+  bottom: 30px;
+  right:10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-card1{
+  background-color: #1B1A21;
+  border-color:  #1B1A21;
+  border-width: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  transition: all 0.5s ease;
+}
+
+.profile-des{
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  font-weight: bold;
+  position: relative;
+  bottom: 8px;
+  right: 15px;
+}
+
+.card-text{
+  text-align: left;
+  font-size: 13px;
+  color: #fff;
+  font-weight: bold;
+  position: relative;
+  bottom: 14px;
+  right: 12px;
+}
+
+.profile-icon{
+  color: #EB1484;
+}
+
+.profile-icon:hover{
+  color: #EB1484;
+}
+
+.profile-like{
+  text-align: right;
+  color: #fff;
+  position: relative;
+  bottom: 65px;
+}
+
+.pro-icon{
+  color: #EB1484;
+}
+
+.pro-icon:hover{
+  color: #EB1484;
+}
+
+.t1{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  left: 120px;
+}
+
+.t2{
+  display: flex;
+  justify-content:flex-end;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  right: 120px;
+}
+
+.f1{
+  padding-right: 10px;
+}
